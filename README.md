@@ -92,6 +92,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shouvik028@gmail.com)
 
 ---
+## 📊 GitHub Stats
 
+![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=default)
+
+## 🏆 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik028&layout=compact&langs_count=8&theme=default)
 
 _Thanks for visiting my profile! 👨‍💻_
