@@ -93,16 +93,16 @@
 
 ---
 
-<h2>🌐 Connect with me</h2>
+<h3>🌐 Connect with me</h2>
 
 <a href="https://github.com/Shouvik028" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height:36px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height:30px;">
 </a>
 <a href="https://linkedin.com/in/shouvik028" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" style="height:36px;">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" style="height:30px;">
 </a>
 <a href="mailto:shouvik028@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:36px;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:30px;">
 </a>
 
 ---
