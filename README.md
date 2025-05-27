@@ -2,8 +2,8 @@
 
 ### I'm **Shouvik Kumar**, a 3rd Year Information Technology Student at **MIT Manipal** 
 
-I'm currently learning and working on CyberSecurity and Machine Learning projects.  
-I'm open to collaborating on any coding project!
+- I'm currently learning and working on CyberSecurity and Machine Learning projects.
+- I'm open to collaborating on any coding project!
 
 📫 You can contact me at shouvik028@gmail.com
 
