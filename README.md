@@ -93,7 +93,7 @@
 
 ---
 
-<h3>🌐 Connect with me</h2>
+## 🌐 Connect with me
 
 <a href="https://github.com/Shouvik028" target="_blank" style="display:inline-block; margin-right:10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="height:30px;">
