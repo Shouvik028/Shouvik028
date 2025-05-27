@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 ### I'm **Shouvik Kumar**, a 3rd Year Information Technology Student at **MIT Manipal** 
-###📫 **Email:** [shouvik028@gmail.com](mailto:shouvik028@gmail.com)
+### 📫 **Email:** [shouvik028@gmail.com](mailto:shouvik028@gmail.com)
 ---
 
 ## Table of Contents
