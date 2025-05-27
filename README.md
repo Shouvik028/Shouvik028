@@ -79,5 +79,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shouvik028@gmail.com)
 
 ---
-
+![Shouvik028's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=radical)
 _Thanks for visiting my profile! 👨‍💻_
