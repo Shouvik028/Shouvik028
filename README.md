@@ -16,35 +16,12 @@
 
 ---
 
-### 🔭 I’m currently working on:
-- Web Development Projects  
-- Machine Learning Projects 🧠  
-- Data Structures & Algorithms  
-
-### 🌱 I’m currently learning:
-- Artificial Intelligence (AI)  
-- Machine Learning (ML)  
-- Full Stack Development  
-
-### 👨‍💻 Interests:
-- Cyber Security 🛡️  
-- Artificial Intelligence 🤖  
-- Machine Learning 📊  
-- Web Development 🌐  
-
-### 🚀 Domains I've Worked In:
-- Web Development (Full Stack)  
-- Machine Learning Projects  
-- App Development (Android/iOS)
-
----
-
-### 💬 Ask me about:
-- Anything tech-related!
-- Open Source, Web Dev, ML, or Security
-- Cool project ideas or collaborations
-
----
+| 🔭 Currently Working On     | 🌱 Currently Learning         | 👨‍💻 Interests                | 🚀 Domains I've Worked In     |
+|----------------------------|------------------------------|------------------------------|------------------------------|
+| - Web Development Projects | - Artificial Intelligence    | - Cyber Security 🛡️          | - Web Development (Full Stack) |
+| - Machine Learning Projects🧠 | - Machine Learning (ML)      | - Artificial Intelligence 🤖  | - Machine Learning Projects  |
+| - Data Structures & Algorithms | - Full Stack Development      | - Machine Learning 📊         | - App Development (Android/iOS) |
+|                            |                              | - Web Development 🌐          |                              |
 
 ### 🛠️ Skills:
 
