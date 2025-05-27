@@ -2,6 +2,17 @@
 
 I'm **Shouvik Kumar**, a 3rd Year Information Technology Student at **MIT Manipal**  
 📫 **Email:** [shouvik028@gmail.com](mailto:shouvik028@gmail.com)
+---
+
+## Table of Contents
+- [Currently Working On](#-im-currently-working-on)
+- [Currently Learning](#-im-currently-learning)
+- [Interests](#-interests)
+- [Domains I've Worked In](#-domains-ive-worked-in)
+- [Ask Me About](#-ask-me-about)
+- [Skills](#-skills)
+- [Technologies I Use](#-technologies-i-use)
+- [Connect with Me](#-connect-with-me)
 
 ---
 
