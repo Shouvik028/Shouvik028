@@ -85,12 +85,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shouvik028)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shouvik028)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shouvik028@gmail.com)
-
 <h2>🌐 Connect with me</h2>
 
 <a href="https://github.com/Shouvik028" target="_blank" style="display:inline-block; margin-right:10px;">
@@ -102,7 +96,9 @@
 <a href="mailto:shouvik028@gmail.com" target="_blank" style="display:inline-block; margin-right:10px;">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:36px;">
 </a>
+
 ---
+
 ## 📊 GitHub Stats
 
 ![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=dark)
