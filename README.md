@@ -1,4 +1,4 @@
-## Hi there 👋
+CC## Hi there 👋
 
 ### I'm **Shouvik Kumar**, a 3rd Year Information Technology Student at **MIT Manipal** 
 ### 📫 **Email:** [shouvik028@gmail.com](mailto:shouvik028@gmail.com)
@@ -113,8 +113,5 @@
 
 ![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=dark)
 
-## 🏆 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik028&layout=compact&langs_count=8&theme=dark)
 
 _Thanks for visiting my profile! 👨‍💻_
