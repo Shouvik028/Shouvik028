@@ -61,9 +61,11 @@ I'm **Shouvik Kumar**, a 3rd Year Information Technology Student at **MIT Manipa
 
 ---
 
-### 🌐 Connect with me:
-- GitHub: [github.com/Shouvik028](https://github.com/Shouvik028)  
-- LinkedIn: [linkedin.com/in/shouvik028](https://linkedin.com/in/shouvik028)
+### 🌐 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shouvik028)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shouvik028)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shouvik028@gmail.com)
 
 ---
 
