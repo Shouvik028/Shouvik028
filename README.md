@@ -15,7 +15,7 @@
 - [Connect with Me](#-connect-with-me)
 
 ---
-### General
+## General
 <div align="center">
 
   <table>
