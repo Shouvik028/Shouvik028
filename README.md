@@ -94,10 +94,10 @@
 ---
 ## 📊 GitHub Stats
 
-![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=default)
+![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=dark)
 
 ## 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik028&layout=compact&langs_count=8&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik028&layout=compact&langs_count=8&theme=dark)
 
 _Thanks for visiting my profile! 👨‍💻_
