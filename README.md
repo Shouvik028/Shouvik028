@@ -15,13 +15,49 @@
 - [Connect with Me](#-connect-with-me)
 
 ---
-| <u>🔭 Currently Working On</u> | <u>🌱 Currently Learning</u> | <u>👨‍💻 Interests</u> | <u>🚀 Domains I've Worked In</u> |
-|-------------------------------|-----------------------------|----------------------|------------------------------|
-| - Web Development Projects    | - Artificial Intelligence   | - Cyber Security 🛡️  | - Web Development (Full Stack) |
-| - Machine Learning Projects 🧠 | - Machine Learning (ML)     | - Artificial Intelligence 🤖 | - Machine Learning Projects |
-| - Data Structures & Algorithms | - Full Stack Development    | - Machine Learning 📊 | - App Development (Android/iOS) |
-|                               |                             | - Web Development 🌐 |                              |
+<div align="center">
 
+  <table>
+    <tr>
+      <td align="center"><u><b>🔭 Currently Working On</b></u></td>
+      <td align="center"><u><b>🌱 Currently Learning</b></u></td>
+      <td align="center"><u><b>👨‍💻 Interests</b></u></td>
+      <td align="center"><u><b>🚀 Domains I've Worked In</b></u></td>
+    </tr>
+    <tr>
+      <td>
+        <ul align="left">
+          <li>Web Development Projects</li>
+          <li>Machine Learning Projects 🧠</li>
+          <li>Data Structures & Algorithms</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="left">
+          <li>Artificial Intelligence (AI)</li>
+          <li>Machine Learning (ML)</li>
+          <li>Full Stack Development</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="left">
+          <li>Cyber Security 🛡️</li>
+          <li>Artificial Intelligence 🤖</li>
+          <li>Machine Learning 📊</li>
+          <li>Web Development 🌐</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="left">
+          <li>Web Development (Full Stack)</li>
+          <li>Machine Learning Projects</li>
+          <li>App Development (Android/iOS)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+</div>
 ### 🛠️ Skills:
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
