@@ -15,13 +15,49 @@
 - [Connect with Me](#-connect-with-me)
 
 ---
+<div align="center">
 
-| 🔭 Currently Working On     | 🌱 Currently Learning         | 👨‍💻 Interests                | 🚀 Domains I've Worked In     |
-|----------------------------|------------------------------|------------------------------|------------------------------|
-| - Web Development Projects | - Artificial Intelligence    | - Cyber Security 🛡️          | - Web Development (Full Stack) |
-| - Machine Learning Projects🧠 | - Machine Learning (ML)      | - Artificial Intelligence 🤖  | - Machine Learning Projects  |
-| - Data Structures & Algorithms | - Full Stack Development      | - Machine Learning 📊         | - App Development (Android/iOS) |
-|                            |                              | - Web Development 🌐          |                              |
+<u><b>🔭 Currently Working On</b></u> &nbsp;&nbsp;&nbsp;&nbsp;
+<u><b>🌱 Currently Learning</b></u> &nbsp;&nbsp;&nbsp;&nbsp;
+<u><b>👨‍💻 Interests</b></u> &nbsp;&nbsp;&nbsp;&nbsp;
+<u><b>🚀 Domains I've Worked In</b></u>  
+<br>
+
+<span align="left" style="display:inline-block; width: 22%;">
+<ul>
+  <li>Web Development Projects</li>
+  <li>Machine Learning Projects 🧠</li>
+  <li>Data Structures & Algorithms</li>
+</ul>
+</span>
+
+<span align="left" style="display:inline-block; width: 22%;">
+<ul>
+  <li>Artificial Intelligence (AI)</li>
+  <li>Machine Learning (ML)</li>
+  <li>Full Stack Development</li>
+</ul>
+</span>
+
+<span align="left" style="display:inline-block; width: 22%;">
+<ul>
+  <li>Cyber Security 🛡️</li>
+  <li>Artificial Intelligence 🤖</li>
+  <li>Machine Learning 📊</li>
+  <li>Web Development 🌐</li>
+</ul>
+</span>
+
+<span align="left" style="display:inline-block; width: 22%;">
+<ul>
+  <li>Web Development (Full Stack)</li>
+  <li>Machine Learning Projects</li>
+  <li>App Development (Android/iOS)</li>
+</ul>
+</span>
+
+</div>
+---
 
 ### 🛠️ Skills:
 
