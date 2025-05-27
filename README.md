@@ -5,15 +5,12 @@
 ---
 
 ## Table of Contents
-- [Currently Working On](#-im-currently-working-on)
-- [Currently Learning](#-im-currently-learning)
-- [Interests](#-interests)
-- [Domains I've Worked In](#-domains-ive-worked-in)
-- [Ask Me About](#-ask-me-about)
-- [Skills](#-skills)
-- [Technologies I Use](#-technologies-i-use)
-- [Connect with Me](#-connect-with-me)
 
+- [General](#general)
+- [Skills](#skills)
+- [Technologies I Use](#technologies-i-use)
+- [Ask Me About](#ask-me-about)
+- [Connect with Me](#connect-with-me)
 ---
 ## General
 <div align="center">
@@ -59,7 +56,8 @@
   </table>
 
 </div>
-### 🛠️ Skills:
+---
+## 🛠️ Skills:
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -73,7 +71,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-### ⚙️ Technologies I Use:
+## ⚙️ Technologies I Use:
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -85,7 +83,7 @@
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shouvik028)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shouvik028)
