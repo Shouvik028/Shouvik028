@@ -111,6 +111,9 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Shouvik028's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shouvik028&show_icons=true&theme=dark)
 
 ---
 
