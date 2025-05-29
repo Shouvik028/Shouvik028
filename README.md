@@ -31,7 +31,7 @@
       <td>
         <ul align="left">
           <li>Web Development Projects</li>
-          <li>Machine Learning Projects 🧠</li>
+          <li>Machine Learning Projects </li>
           <li>Data Structures & Algorithms</li>
         </ul>
       </td>
@@ -45,8 +45,8 @@
       <td>
         <ul align="left">
           <li>Cyber Security 🛡️</li>
-          <li>Artificial Intelligence 🤖</li>
-          <li>Machine Learning 📊</li>
+          <li>Artificial Intelligence </li>
+          <li>Machine Learning </li>
           <li>Web Development 🌐</li>
         </ul>
       </td>
