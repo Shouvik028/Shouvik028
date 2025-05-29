@@ -54,7 +54,7 @@
         <ul align="left">
           <li>Web Development (Full Stack)</li>
           <li>Machine Learning Projects</li>
-          <li>App Development (Android/iOS)</li>
+          <li>App Development (Android)</li>
         </ul>
       </td>
     </tr>
